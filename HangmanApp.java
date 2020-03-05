@@ -3,8 +3,7 @@ package ictgradschool.industry.assignment04;
 import javax.swing.*;
 
 /**
- * The main JFrame for the game. You should not need to edit this file.
- * author: Sergey Germanov (sger197)
+ * author: Sergey Germanov
  */
 public class HangmanApp extends JFrame {
 
