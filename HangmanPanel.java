@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 /**
  * A panel which displays the graphics for a hangman game.
- * author: Sergey Germanov (sger197)
+ * author: Sergey Germanov
  */
 
 public class HangmanPanel extends JPanel {
