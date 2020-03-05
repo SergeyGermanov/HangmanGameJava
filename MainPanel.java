@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 /**
  * The main JPanel for Hangman, which contains all other GUI controls.
- * author: Sergey Germanov (sger197)
+ * author: Sergey Germanov
  */
 
 
